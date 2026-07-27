@@ -111,3 +111,5 @@ To shutdown vagrant execute this command from root project directory:
 #### For more information about Vagrant    
 - https://www.vagrantup.com/docs/index.html
 - ```$ vagrant --help```  
+
+Primer cambio de la práctica
